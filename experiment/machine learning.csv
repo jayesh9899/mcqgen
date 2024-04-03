@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is machine learning?,a: A subdomain of artificial intelligence that focuses on developing systems that learn based on the data they ingest | b: A subdomain of artificial intelligence that focuses on developing systems that do not learn from data | c: A subdomain of artificial intelligence that focuses on developing systems that do not improve performance | d: A subdomain of artificial intelligence that focuses on developing systems that do not resemble human intelligence,a
+What are the main types of machine learning techniques mentioned in the text?,a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: All of the above,d
+Is all machine learning considered artificial intelligence?,a: Yes | b: No,a
+What is the main focus of machine learning systems?,a: Developing systems that do not learn from data | b: Developing systems that improve performance based on the data they ingest | c: Developing systems that do not resemble human intelligence | d: Developing systems that do not improve performance,b
+What is the difference between machine learning and artificial intelligence?,"a: They are the same thing | b: All AI is machine learning, but not all machine learning is AI | c: All machine learning is AI, but not all AI is machine learning | d: They have no relation",b
